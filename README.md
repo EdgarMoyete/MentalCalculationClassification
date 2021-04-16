@@ -30,3 +30,6 @@ escalas = 8-30Hz cada 0.5Hz <br>
 * `CWT-CNN-RNN.ipynb`: CNN-2D + LSTM
 * `CWT-CNN-RNN-GS.ipynb`: CNN-2D + LSTM Busqueda de cuadricula
 * `CWT-CNN-RNN-Predecir.ipynb`: CNN-2D + LSTM Predecir cargando el modelo
+
+### Mas información
+https://github.com/EdgarMoyete/EEG-Classification-with-CNN
