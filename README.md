@@ -1,5 +1,5 @@
 # Mental Calculation Classification
-Clasificacion de calculo mental en senales EEG con CNN y CNN + LSTM
+Clasificación de cálculo mental en senales EEG con CNN y CNN + LSTM
 
 ## STFT
 ### Espectrogramas con transformada de Fourier de tiempo corto
