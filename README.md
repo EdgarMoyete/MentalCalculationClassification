@@ -12,7 +12,7 @@ tamano de la FFT = 1024 <br>
 
 * `STFT-CNN2D.ipynb`: CNN-2D
 * `STFT-CNN2D-GS.ipynb`: CNN-2D Busqueda de cuadricula
-* `STFT-CNN2D-Predecir.ipynb`: `CNN-2D Predecir cargando el modelo`
+* `STFT-CNN2D-Predecir.ipynb`: CNN-2D Predecir cargando el modelo
 * `STFT-CNN-RNN.ipynb`: CNN-2D + LSTM
 * `STFT-CNN-RNN-GS.ipynb`: CNN-2D + LSTM Busqueda de cuadricula
 * `STFT-CNN-RNN-Predecir.ipynb`: CNN-2D + LSTM Predecir cargando el modelo
